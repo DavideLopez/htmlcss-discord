@@ -4,7 +4,7 @@
     padding: 0;
 }
 
- /* barra nav */
+ /* BARRA NAV */
 .main-nav{
     max-width: 1200px;
     margin: auto;
@@ -27,4 +27,63 @@ header{
     background-color: #ADD8E6;
 }
 
-/* fine barra nav */
+/* FINE BARRA NAV */
+
+/* PRIMA SEZIONE ROSA */
+
+.sect1{
+    background-color: blue;
+    height: 500px;
+}
+
+.container{
+    margin: auto;
+    max-width: 900px;
+    height: 400px;
+    padding-top: 50px;
+}
+
+.pink-square{
+    background-color: #EE82EE;
+    max-width: 900px;
+    height: 400px;
+}
+
+/* FINE PRIMA SEZIONE */
+
+/* SECONDA SEZIONE QUADRATO AZZURRO ROSA */
+
+.sect2{
+    background-color: white;
+    height: 500px;
+    padding-bottom: 50px;
+}
+
+.square1{
+    background-color: #1E90FF;
+    height: 400px;
+    max-width: 900px;
+    flex-basis: 60%;
+
+}
+
+.square2{
+    background-color: #FFC0CB;
+    height: 400px;
+    max-width: 900px;
+    flex-basis: 40%;
+}
+
+.flex{
+    display: flex;
+}
+
+/* FINE SECONDA SEZIONE */
+
+/* TERZA SEZIONE QUADRATO ROSA AZZURRO */
+
+.sect2{
+    background-color: white;
+    height: 500px;
+    padding-bottom: 50px;
+}
