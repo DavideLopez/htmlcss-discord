@@ -3,3 +3,28 @@
     margin: 0;
     padding: 0;
 }
+
+ /* barra nav */
+.main-nav{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #DAA520;
+    list-style: none;
+}
+
+.main-menu{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    gap: 20px;
+}
+
+header{
+    padding: 15px 70px;
+    background-color: #ADD8E6;
+}
+
+/* fine barra nav */
