@@ -103,3 +103,21 @@ header{
 
 /* FINE TERZA SEZIONE */
 
+/* QUINTA SEZIONE QUADRATO VERDE */
+
+.sect5{
+    background-color: grey;
+    height: 1000px;
+}
+
+.green{
+    margin: auto;
+    background-color: green;
+    max-width: 900px;
+    height: 900px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+/* FINE QUINTA SEZIONE */
+
