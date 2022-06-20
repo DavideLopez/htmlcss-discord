@@ -37,13 +37,14 @@ header{
 }
 
 .container{
-    margin: auto;
-    max-width: 900px;
+    max-width: 1200px;
     height: 400px;
     padding-top: 50px;
+    margin: auto;
 }
 
 .pink-square{
+    margin: auto;
     background-color: #EE82EE;
     max-width: 900px;
     height: 400px;
@@ -62,14 +63,14 @@ header{
 .square1{
     background-color: #1E90FF;
     height: 400px;
-    max-width: 900px;
+    width: 1200px;
     flex-basis: 60%;
 }
 
 .square2{
     background-color: #FFC0CB;
     height: 400px;
-    max-width: 900px;
+    width: 1200px;
     flex-basis: 40%;
 }
 
@@ -90,14 +91,14 @@ header{
 .square3{
     background-color: #FFC0CB;
     height: 400px;
-    max-width: 900px;
+    max-width: 1200px;
     flex-basis: 40%;
 }
 
 .square4{
     background-color: #1E90FF;
     height: 400px;
-    max-width: 900px;
+    max-width: 1200px;
     flex-basis: 60%;
 }
 
@@ -113,11 +114,13 @@ header{
 .green{
     margin: auto;
     background-color: green;
-    max-width: 900px;
+    width: 1200px;
     height: 900px;
     padding-top: 50px;
     padding-bottom: 50px;
 }
 
 /* FINE QUINTA SEZIONE */
+
+/* SESTA SEZIONE A COLONNE */
 
