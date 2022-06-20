@@ -64,7 +64,6 @@ header{
     height: 400px;
     max-width: 900px;
     flex-basis: 60%;
-
 }
 
 .square2{
@@ -83,7 +82,24 @@ header{
 /* TERZA SEZIONE QUADRATO ROSA AZZURRO */
 
 .sect3{
-    background-color: white;
+    background-color: lightgrey;
     height: 500px;
     padding-bottom: 50px;
 }
+
+.square3{
+    background-color: #FFC0CB;
+    height: 400px;
+    max-width: 900px;
+    flex-basis: 40%;
+}
+
+.square4{
+    background-color: #1E90FF;
+    height: 400px;
+    max-width: 900px;
+    flex-basis: 60%;
+}
+
+/* FINE TERZA SEZIONE */
+
