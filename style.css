@@ -79,7 +79,6 @@ h2{
     color: white;
     border-radius: 25px;
     font-size: 20px;
-    border: 2px solid #333;
 }
 
 button{
@@ -175,7 +174,6 @@ button{
     border-radius: 25px;
     font-size: 20px;
     background-color: #7289DA;
-    border: 1px solid #7289DA;
 }
 
 .stars{
@@ -237,4 +235,5 @@ footer{
     border-radius: 25px;
     font-size: 20px;
     margin: 0;
+    background-color: #7289DA;
 }
