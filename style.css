@@ -11,9 +11,10 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #DAA520;
+    background-color: #255EE9;
+    font-size: 22px;
     list-style: none;
-    border: 2px dashed black;
+    /* border: 2px dashed black; */
 }
 
 /* .dashed-border{
@@ -44,7 +45,7 @@ header{
 .sect1{
     background-image: url(img/jumbo.png);
     background-size: cover;
-    height: 500px;
+    height: 665px;
 }
 
 h2{
@@ -55,14 +56,21 @@ h2{
 
 .formac{
     padding: 15px;
-    border-radius: 20px
+    border-radius: 25px;
+    font-size: 20px;
 }
 
 .blackbutton{
     background-color: #333;
     padding: 15px;
     color: white;
-    border-radius: 20px
+    border-radius: 25px;
+    font-size: 20px;
+    border: 2px solid #333;
+}
+
+button{
+    margin-top: 20px;
 }
 
 .container{
