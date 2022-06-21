@@ -16,9 +16,9 @@
     border: 2px dashed black;
 }
 
-.dashed-border{
+/* .dashed-border{
     border: 2px dashed black;
-}
+} */
 
 .main-menu{
     display: flex;
@@ -34,7 +34,7 @@ a{
 
 header{
     padding: 15px 70px;
-    background-color: #ADD8E6;
+    background-color: #255EE9;
 }
 
 /* FINE BARRA NAV */
@@ -42,8 +42,27 @@ header{
 /* PRIMA SEZIONE ROSA */
 
 .sect1{
-    background-color: blue;
+    background-image: url(img/jumbo.png);
+    background-size: cover;
     height: 500px;
+}
+
+h2{
+    padding-bottom: 50px;
+    padding-top: 50px;
+    font-size: 50px;
+}
+
+.formac{
+    padding: 15px;
+    border-radius: 20px
+}
+
+.blackbutton{
+    background-color: #333;
+    padding: 15px;
+    color: white;
+    border-radius: 20px
 }
 
 .container{
@@ -51,13 +70,16 @@ header{
     height: 400px;
     padding-top: 50px;
     margin: auto;
+    text-align: center;
 }
 
 .pink-square{
     margin: auto;
-    background-color: #EE82EE;
+    /* background-color: #EE82EE; */
     max-width: 900px;
     height: 400px;
+    font-size: 25px;
+    color: white;
 }
 
 /* FINE PRIMA SEZIONE */
@@ -71,17 +93,18 @@ header{
 }
 
 .square1{
-    background-color: #1E90FF;
+    /* background-color: #1E90FF; */
     height: 400px;
     width: 1200px;
     flex-basis: 60%;
 }
 
 .square2{
-    background-color: #FFC0CB;
+    /* background-color: #FFC0CB; */
     height: 400px;
     width: 1200px;
     flex-basis: 40%;
+    font-size: 22px;
 }
 
 .flex{
@@ -99,14 +122,15 @@ header{
 }
 
 .square3{
-    background-color: #FFC0CB;
+    /* background-color: #FFC0CB; */
     height: 400px;
     max-width: 1200px;
     flex-basis: 40%;
+    font-size: 22px;
 }
 
 .square4{
-    background-color: #1E90FF;
+    /* background-color: #1E90FF; */
     height: 400px;
     max-width: 1200px;
     flex-basis: 60%;
@@ -123,7 +147,7 @@ header{
 
 .green{
     margin: auto;
-    background-color: green;
+    /* background-color: green; */
     width: 1200px;
     height: 900px;
     padding-top: 50px;
