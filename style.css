@@ -53,7 +53,7 @@ header{
 
 /* FINE BARRA NAV */
 
-/* PRIMA SEZIONE ROSA */
+/* PRIMA SEZIONE - BANNER */
 
 .sect1{
     background-image: url(img/jumbo.png);
@@ -95,7 +95,7 @@ button{
     text-align: center;
 }
 
-.pink-square{
+.banner{
     margin: auto;
     max-width: 900px;
     height: 400px;
@@ -105,7 +105,7 @@ button{
 
 /* FINE PRIMA SEZIONE */
 
-/* SECONDA SEZIONE QUADRATO AZZURRO ROSA */
+/* SECONDA SEZIONE */
 
 .sect2{
     background-color: white;
@@ -132,7 +132,7 @@ button{
 
 /* FINE SECONDA SEZIONE */
 
-/* TERZA SEZIONE QUADRATO ROSA AZZURRO */
+/* TERZA SEZIONE  */
 
 .sect3{
     background-color: lightgrey;
@@ -155,13 +155,13 @@ button{
 
 /* FINE TERZA SEZIONE */
 
-/* QUINTA SEZIONE QUADRATO VERDE */
+/* QUINTA SEZIONE TECH */
 
 .sect5{
     height: 1000px;
 }
 
-.green{
+.tech{
     margin: auto;
     width: 1200px;
     height: 900px;
