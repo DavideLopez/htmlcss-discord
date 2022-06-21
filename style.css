@@ -149,7 +149,7 @@ button{
 /* QUINTA SEZIONE QUADRATO VERDE */
 
 .sect5{
-    background-color: grey;
+    /* background-color: grey; */
     height: 1000px;
 }
 
@@ -160,6 +160,24 @@ button{
     height: 900px;
     padding-top: 50px;
     padding-bottom: 50px;
+    font-size: 22px;
+}
+
+.formac2{
+    padding: 15px;
+    border-radius: 25px;
+    font-size: 20px;
+    background-color: #7289DA;
+    border: 1px solid #7289DA;
+}
+
+.stars{
+    width: 551px;
+    height: 50px;
+    margin: auto;
+    background-image: url(img/stars.svg);
+    background-size: contain;
+    
 }
 
 /* FINE QUINTA SEZIONE */
@@ -188,7 +206,7 @@ button{
 }
 
 footer{
-    background-color: black;
+    background-color: #333;
 }
 
    /* FINE COLONNE */
